@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+langchain
+sentence-transformers
+chromadb
+openai
+python-dotenv
